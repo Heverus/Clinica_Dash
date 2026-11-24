@@ -1,0 +1,19 @@
+# base de dados e gerador ficam fora do repositório público
+Base_Clinica.xlsx
+dados/
+gerador_base.py
+gh.tmp
+
+# temporários de teste
+.edge/
+_libs/
+_demo.json
+_check.js
+_t.mjs
+_f.mjs
+_q.mjs
+_test*.html
+_mob*.png
+_sec*.png
+_csv.png
+_erro.png
